@@ -1,2 +1,963 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<rss />
+<rss version="2.0">
+  <channel>
+    <title>2000 ans d’histoire</title>
+    <link>http://blog-histoire.fr/</link>
+    <description>L'Histoire en podcast</description>
+    <lastBuildDate>15/11/2016 20:27:51</lastBuildDate>
+    <item>
+      <title>Attila</title>
+      <description>Attila</description>
+      <link>http://blog-histoire.fr/2000ans/Attila.mp3</link>
+      <pubDate>30/08/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Pancho Villa et Zapata</title>
+      <description>Pancho Villa et Zapata</description>
+      <link>http://blog-histoire.fr/2000ans/Villa-Zapata.mp3</link>
+      <pubDate>31/08/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Rembrandt</title>
+      <description>Rembrandt</description>
+      <link>http://blog-histoire.fr/2000ans/Rembrandt.mp3</link>
+      <pubDate>03/09/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La chute de Massada</title>
+      <description>La chute de Massada</description>
+      <link>http://blog-histoire.fr/2000ans/Massada.mp3</link>
+      <pubDate>06/09/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La peste noire</title>
+      <description>La peste noire</description>
+      <link>http://blog-histoire.fr/2000ans/05.10.2007-LA-PESTE.mp3</link>
+      <pubDate>08/09/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le bapt??me de Clovis</title>
+      <description>Le bapt??me de Clovis</description>
+      <link>http://blog-histoire.fr/2000ans/Clovis.mp3</link>
+      <pubDate>13/09/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La croisi??re noire</title>
+      <description>La croisi??re noire</description>
+      <link>http://blog-histoire.fr/2000ans/La-Croisiere-noire.mp3</link>
+      <pubDate>15/09/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Caligula</title>
+      <description>Caligula</description>
+      <link>http://blog-histoire.fr/2000ans/Caligula.mp3</link>
+      <pubDate>16/09/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La naissance de l&amp;rsquo;islam</title>
+      <description>La naissance de l&amp;rsquo;islam</description>
+      <link>http://blog-histoire.fr/2000ans/Mahomet.mp3</link>
+      <pubDate>20/09/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La comtesse de S??gur</title>
+      <description>La comtesse de S??gur</description>
+      <link>http://blog-histoire.fr/2000ans/07.01.2009-LA-COMTESSE-DE-SEGUR.mp3</link>
+      <pubDate>21/09/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Mao proclame la R??publique Populaire de Chine</title>
+      <description>Mao proclame la R??publique Populaire de Chine</description>
+      <link>http://blog-histoire.fr/2000ans/Mao-Zedong.mp3</link>
+      <pubDate>01/10/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les cathares</title>
+      <description>Les cathares</description>
+      <link>http://blog-histoire.fr/2000ans/les-cathares.mp3</link>
+      <pubDate>04/10/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La guerre civile en Gr??ce</title>
+      <description>La guerre civile en Gr??ce</description>
+      <link>http://blog-histoire.fr/2000ans/guerre-civil-grece.mp3</link>
+      <pubDate>05/10/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Fr??d??ric Chopin</title>
+      <description>Fr??d??ric Chopin</description>
+      <link>http://blog-histoire.fr/2000ans/21.02.2010-CHOPIN.mp3</link>
+      <pubDate>14/10/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Jeanne d&amp;rsquo;Arc</title>
+      <description>Jeanne d&amp;rsquo;Arc</description>
+      <link>http://blog-histoire.fr/2000ans/Jeanne-Arc.mp3</link>
+      <pubDate>20/10/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Gengis Khan</title>
+      <description>Gengis Khan</description>
+      <link>http://blog-histoire.fr/2000ans/Genghis-Khan.mp3</link>
+      <pubDate>21/10/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La conqu??te de l&amp;rsquo;Alg??rie</title>
+      <description>La conqu??te de l&amp;rsquo;Alg??rie</description>
+      <link>http://blog-histoire.fr/2000ans/ConqueteAlgerie.mp3</link>
+      <pubDate>22/10/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;??le de P??ques</title>
+      <description>L&amp;rsquo;??le de P??ques</description>
+      <link>http://blog-histoire.fr/2000ans/Ile-de-paques.mp3</link>
+      <pubDate>25/10/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Jules Verne</title>
+      <description>Jules Verne</description>
+      <link>http://blog-histoire.fr/2000ans/Jules-Verne.mp3</link>
+      <pubDate>26/10/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>N??ron</title>
+      <description>N??ron</description>
+      <link>http://blog-histoire.fr/2000ans/Neron.mp3</link>
+      <pubDate>27/10/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Voltaire, un intellectuel avant la lettre</title>
+      <description>Voltaire, un intellectuel avant la lettre</description>
+      <link>http://blog-histoire.fr/2000ans/Voltaire.mp3</link>
+      <pubDate>28/10/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le cimeti??re du P??re Lachaise</title>
+      <description>Le cimeti??re du P??re Lachaise</description>
+      <link>http://blog-histoire.fr/2000ans/Le-Pere-Lachaise.mp3</link>
+      <pubDate>01/11/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le prix Goncourt</title>
+      <description>Le prix Goncourt</description>
+      <link>http://blog-histoire.fr/2000ans/Le-prix-Goncourt.mp3</link>
+      <pubDate>02/11/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le Dix-Huit Brumaire</title>
+      <description>Le Dix-Huit Brumaire</description>
+      <link>http://blog-histoire.fr/2000ans/Le-18-brumaire.mp3</link>
+      <pubDate>10/11/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La Bastille</title>
+      <description>La Bastille</description>
+      <link>http://blog-histoire.fr/2000ans/Bastille.mp3</link>
+      <pubDate>11/11/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le mariage</title>
+      <description>Le mariage</description>
+      <link>http://blog-histoire.fr/2000ans/Le-mariage-1.mp3</link>
+      <pubDate>26/11/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Montesquieu</title>
+      <description>Montesquieu</description>
+      <link>http://blog-histoire.fr/2000ans/Montesquieu.mp3</link>
+      <pubDate>30/11/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Austerlitz</title>
+      <description>Austerlitz</description>
+      <link>http://blog-histoire.fr/2000ans/Austerlitz2.mp3</link>
+      <pubDate>02/12/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les cath??drales</title>
+      <description>Les cath??drales</description>
+      <link>http://blog-histoire.fr/2000ans/CathedraldeChartres.mp3</link>
+      <pubDate>03/12/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le scoutisme</title>
+      <description>Le scoutisme</description>
+      <link>http://blog-histoire.fr/2000ans/le-Scoutisme.mp3</link>
+      <pubDate>06/12/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La fin de Pomp??i</title>
+      <description>La fin de Pomp??i</description>
+      <link>http://blog-histoire.fr/2000ans/24-aout-79-apres-J-C-_la-destruction-de-Pompei.mp3</link>
+      <pubDate>07/12/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le couronnement de Charlemagne</title>
+      <description>Le couronnement de Charlemagne</description>
+      <link>http://blog-histoire.fr/2000ans/Charlemagne.mp3</link>
+      <pubDate>08/12/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;??lectricit??</title>
+      <description>L&amp;rsquo;??lectricit??</description>
+      <link>http://blog-histoire.fr/2000ans/Electricite.mp3</link>
+      <pubDate>14/12/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La guerre civile en Gr??ce</title>
+      <description>La guerre civile en Gr??ce</description>
+      <link>http://blog-histoire.fr/2000ans/guerre-civil-grece.mp3</link>
+      <pubDate>21/12/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Caligula</title>
+      <description>Caligula</description>
+      <link>http://blog-histoire.fr/2000ans/Caligula.mp3</link>
+      <pubDate>23/12/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Nostradamus</title>
+      <description>Nostradamus</description>
+      <link>http://blog-histoire.fr/2000ans/Le_Retour_de_Nostradamus.mp3</link>
+      <pubDate>30/12/1999 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L??onard de Vinci</title>
+      <description>L??onard de Vinci</description>
+      <link>http://blog-histoire.fr/2000ans/Leonard-de-vinci.mp3</link>
+      <pubDate>03/01/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les ch??teaux forts</title>
+      <description>Les ch??teaux forts</description>
+      <link>http://blog-histoire.fr/2000ans/les-chateaux-forts1.mp3</link>
+      <pubDate>05/01/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La Terreur</title>
+      <description>La Terreur</description>
+      <link>http://blog-histoire.fr/2000ans/30.11.2010-LA-TERREUR.mp3</link>
+      <pubDate>06/01/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La mort de Fran??ois Mitterrand</title>
+      <description>La mort de Fran??ois Mitterrand</description>
+      <link>http://blog-histoire.fr/2000ans/mort-mitterand.mp3</link>
+      <pubDate>07/01/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La Fronde</title>
+      <description>La Fronde</description>
+      <link>http://blog-histoire.fr/2000ans/la-fronde.mp3</link>
+      <pubDate>12/01/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Casanova</title>
+      <description>Casanova</description>
+      <link>http://blog-histoire.fr/2000ans/Casanova.mp3</link>
+      <pubDate>13/01/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Saint-Fran??ois d&amp;rsquo;Assise</title>
+      <description>Saint-Fran??ois d&amp;rsquo;Assise</description>
+      <link>http://blog-histoire.fr/2000ans/Saint-Francois-Assise.mp3</link>
+      <pubDate>19/01/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La s??paration des ??glises et de l&amp;rsquo;??tat</title>
+      <description>La s??paration des ??glises et de l&amp;rsquo;??tat</description>
+      <link>http://blog-histoire.fr/2000ans/1905-la-separation-des-eglises-et-de-l-etat.mp3</link>
+      <pubDate>20/01/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Cl??menceau</title>
+      <description>Cl??menceau</description>
+      <link>http://blog-histoire.fr/2000ans/Clemenceau.mp3</link>
+      <pubDate>25/01/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La poste</title>
+      <description>La poste</description>
+      <link>http://blog-histoire.fr/2000ans/La-poste.mp3</link>
+      <pubDate>03/02/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les phares</title>
+      <description>Les phares</description>
+      <link>http://blog-histoire.fr/2000ans/Les-Phares.mp3</link>
+      <pubDate>09/02/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Saint Jacques de Compostelle</title>
+      <description>Saint Jacques de Compostelle</description>
+      <link>http://blog-histoire.fr/2000ans/Saint-Jacques-De-Compostelle.mp3</link>
+      <pubDate>10/02/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les chouans</title>
+      <description>Les chouans</description>
+      <link>http://blog-histoire.fr/2000ans/La-guerre-de-Vendee-chouannerie.mp3</link>
+      <pubDate>14/02/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les vampires</title>
+      <description>Les vampires</description>
+      <link>http://blog-histoire.fr/2000ans/vampires.mp3</link>
+      <pubDate>18/02/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;adult??re</title>
+      <description>L&amp;rsquo;adult??re</description>
+      <link>http://blog-histoire.fr/2000ans/05.03.2009-L-ADULTERE.mp3</link>
+      <pubDate>21/02/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Venise</title>
+      <description>Venise</description>
+      <link>http://blog-histoire.fr/2000ans/Venise.mp3</link>
+      <pubDate>22/02/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les gladiateurs</title>
+      <description>Les gladiateurs</description>
+      <link>http://blog-histoire.fr/2000ans/Les-Gladiateurs.mp3</link>
+      <pubDate>23/02/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le caf??</title>
+      <description>Le caf??</description>
+      <link>http://blog-histoire.fr/2000ans/01.04.2008-LE-CAFE.mp3</link>
+      <pubDate>28/02/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Histoire du Qu??bec</title>
+      <description>Histoire du Qu??bec</description>
+      <link>http://blog-histoire.fr/2000ans/quebec.mp3</link>
+      <pubDate>29/02/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les ch??teaux de la Loire</title>
+      <description>Les ch??teaux de la Loire</description>
+      <link>http://blog-histoire.fr/2000ans/Les-chateaux-de-la-Loire.mp3</link>
+      <pubDate>01/03/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La Cagoule</title>
+      <description>La Cagoule</description>
+      <link>http://blog-histoire.fr/2000ans/05.02.2009-LA-CAGOULE.mp3</link>
+      <pubDate>03/03/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Anne d&amp;rsquo;Autriche</title>
+      <description>Anne d&amp;rsquo;Autriche</description>
+      <link>http://blog-histoire.fr/2000ans/Anne-Autriche.mp3</link>
+      <pubDate>06/03/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Catherine II</title>
+      <description>Catherine II</description>
+      <link>http://blog-histoire.fr/2000ans/Catherine-II.mp3</link>
+      <pubDate>07/03/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le travail des femmes</title>
+      <description>Le travail des femmes</description>
+      <link>http://blog-histoire.fr/2000ans/Travail-des-femmes.mp3</link>
+      <pubDate>09/03/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;Inquisition</title>
+      <description>L&amp;rsquo;Inquisition</description>
+      <link>http://blog-histoire.fr/2000ans/L-inquisition.mp3</link>
+      <pubDate>13/03/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La campagne de Russie</title>
+      <description>La campagne de Russie</description>
+      <link>http://blog-histoire.fr/2000ans/Campagne-Russie.mp3</link>
+      <pubDate>16/03/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;eau</title>
+      <description>L&amp;rsquo;eau</description>
+      <link>http://blog-histoire.fr/2000ans/La-crise-de-eau.mp3</link>
+      <pubDate>21/03/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Madame de Pompadour</title>
+      <description>Madame de Pompadour</description>
+      <link>http://blog-histoire.fr/2000ans/Madame-De-Pompadour.mp3</link>
+      <pubDate>28/03/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les templiers</title>
+      <description>Les templiers</description>
+      <link>http://blog-histoire.fr/2000ans/les-templiers.mp3</link>
+      <pubDate>31/03/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Pinochet</title>
+      <description>Pinochet</description>
+      <link>http://blog-histoire.fr/2000ans/2006-12-12-Pinochet.mp3</link>
+      <pubDate>03/04/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Galil??e</title>
+      <description>Galil??e</description>
+      <link>http://blog-histoire.fr/2000ans/Galilee.mp3</link>
+      <pubDate>05/04/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Histoire de la gendarmerie</title>
+      <description>Histoire de la gendarmerie</description>
+      <link>http://blog-histoire.fr/2000ans/La-gendarmerie.mp3</link>
+      <pubDate>06/04/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le sionisme</title>
+      <description>Le sionisme</description>
+      <link>http://blog-histoire.fr/2000ans/Le-sionisme.mp3</link>
+      <pubDate>07/04/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les cathares</title>
+      <description>Les cathares</description>
+      <link>http://blog-histoire.fr/2000ans/les-cathares.mp3</link>
+      <pubDate>10/04/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Jules Verne</title>
+      <description>Jules Verne</description>
+      <link>http://blog-histoire.fr/2000ans/Jules-Verne.mp3</link>
+      <pubDate>12/04/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Talleyrand</title>
+      <description>Talleyrand</description>
+      <link>http://blog-histoire.fr/2000ans/Talleyrand.mp3</link>
+      <pubDate>18/04/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Louis XVII</title>
+      <description>Louis XVII</description>
+      <link>http://blog-histoire.fr/2000ans/Louis-XVII.mp3</link>
+      <pubDate>21/04/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Maurice Thorez</title>
+      <description>Maurice Thorez</description>
+      <link>http://blog-histoire.fr/2000ans/Thorez.mp3</link>
+      <pubDate>28/04/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;op??ra</title>
+      <description>L&amp;rsquo;op??ra</description>
+      <link>http://blog-histoire.fr/2000ans/Opera.mp3</link>
+      <pubDate>02/05/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le chat</title>
+      <description>Le chat</description>
+      <link>http://blog-histoire.fr/2000ans/LeChat.mp3</link>
+      <pubDate>03/05/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La reine Elizabeth I d&amp;rsquo;Angleterre</title>
+      <description>La reine Elizabeth I d&amp;rsquo;Angleterre</description>
+      <link>http://blog-histoire.fr/2000ans/ElisabethIere.mp3</link>
+      <pubDate>04/05/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Un si??cle de pacifisme</title>
+      <description>Un si??cle de pacifisme</description>
+      <link>http://blog-histoire.fr/2000ans/Le-pacifisme.mp3</link>
+      <pubDate>08/05/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;Aiglon</title>
+      <description>L&amp;rsquo;Aiglon</description>
+      <link>http://blog-histoire.fr/2000ans/Aiglon.mp3</link>
+      <pubDate>09/05/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les Vikings</title>
+      <description>Les Vikings</description>
+      <link>http://blog-histoire.fr/2000ans/vikings.mp3</link>
+      <pubDate>10/05/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les Dardanelles</title>
+      <description>Les Dardanelles</description>
+      <link>http://blog-histoire.fr/2000ans/Gallipoli.mp3</link>
+      <pubDate>23/05/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le tennis</title>
+      <description>Le tennis</description>
+      <link>http://blog-histoire.fr/2000ans/tennis.mp3</link>
+      <pubDate>29/05/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les coptes</title>
+      <description>Les coptes</description>
+      <link>http://blog-histoire.fr/2000ans/2006-11-24-Les-coptes.mp3</link>
+      <pubDate>30/05/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La conqu??te de l&amp;rsquo;Himalaya</title>
+      <description>La conqu??te de l&amp;rsquo;Himalaya</description>
+      <link>http://blog-histoire.fr/2000ans/Himalaya.mp3</link>
+      <pubDate>02/06/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>New-York</title>
+      <description>New-York</description>
+      <link>http://blog-histoire.fr/2000ans/New-York.mp3</link>
+      <pubDate>08/06/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Calvin</title>
+      <description>Calvin</description>
+      <link>http://blog-histoire.fr/2000ans/Jean-Calvin.mp3</link>
+      <pubDate>09/06/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les papes en Avignon</title>
+      <description>Les papes en Avignon</description>
+      <link>http://blog-histoire.fr/2000ans/LesPapesAvignon.mp3</link>
+      <pubDate>13/06/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Napol??on ?? Sainte H??l??ne</title>
+      <description>Napol??on ?? Sainte H??l??ne</description>
+      <link>http://blog-histoire.fr/2000ans/mortnapoleon.mp3</link>
+      <pubDate>14/06/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les compagnons de la Lib??ration</title>
+      <description>Les compagnons de la Lib??ration</description>
+      <link>http://blog-histoire.fr/2000ans/29.11.2010-LES-COMPAGNONS-DE-LA-LIBERATION.mp3</link>
+      <pubDate>15/06/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Du Guesclin</title>
+      <description>Du Guesclin</description>
+      <link>http://blog-histoire.fr/2000ans/Du-Guesclin.mp3</link>
+      <pubDate>16/06/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les Vikings</title>
+      <description>Les Vikings</description>
+      <link>http://blog-histoire.fr/2000ans/vikings.mp3</link>
+      <pubDate>03/07/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;??lectricit??</title>
+      <description>L&amp;rsquo;??lectricit??</description>
+      <link>http://blog-histoire.fr/2000ans/Electricite.mp3</link>
+      <pubDate>12/07/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Galil??e</title>
+      <description>Galil??e</description>
+      <link>http://blog-histoire.fr/2000ans/Galilee.mp3</link>
+      <pubDate>13/07/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le mariage</title>
+      <description>Le mariage</description>
+      <link>http://blog-histoire.fr/2000ans/Le-mariage-1.mp3</link>
+      <pubDate>17/07/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;adult??re</title>
+      <description>L&amp;rsquo;adult??re</description>
+      <link>http://blog-histoire.fr/2000ans/05.03.2009-L-ADULTERE.mp3</link>
+      <pubDate>19/07/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La Cagoule</title>
+      <description>La Cagoule</description>
+      <link>http://blog-histoire.fr/2000ans/05.02.2009-LA-CAGOULE.mp3</link>
+      <pubDate>27/07/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La peste noire</title>
+      <description>La peste noire</description>
+      <link>http://blog-histoire.fr/2000ans/05.10.2007-LA-PESTE.mp3</link>
+      <pubDate>31/07/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La Terreur</title>
+      <description>La Terreur</description>
+      <link>http://blog-histoire.fr/2000ans/30.11.2010-LA-TERREUR.mp3</link>
+      <pubDate>03/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les vampires</title>
+      <description>Les vampires</description>
+      <link>http://blog-histoire.fr/2000ans/vampires.mp3</link>
+      <pubDate>04/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La croisi??re noire</title>
+      <description>La croisi??re noire</description>
+      <link>http://blog-histoire.fr/2000ans/La-Croisiere-noire.mp3</link>
+      <pubDate>08/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Montesquieu</title>
+      <description>Montesquieu</description>
+      <link>http://blog-histoire.fr/2000ans/Montesquieu.mp3</link>
+      <pubDate>15/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Voltaire, un intellectuel avant la lettre</title>
+      <description>Voltaire, un intellectuel avant la lettre</description>
+      <link>http://blog-histoire.fr/2000ans/Voltaire.mp3</link>
+      <pubDate>17/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La fin de Pomp??i</title>
+      <description>La fin de Pomp??i</description>
+      <link>http://blog-histoire.fr/2000ans/24-aout-79-apres-J-C-_la-destruction-de-Pompei.mp3</link>
+      <pubDate>21/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Saint Jacques de Compostelle</title>
+      <description>Saint Jacques de Compostelle</description>
+      <link>http://blog-histoire.fr/2000ans/Saint-Jacques-De-Compostelle.mp3</link>
+      <pubDate>22/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Venise</title>
+      <description>Venise</description>
+      <link>http://blog-histoire.fr/2000ans/Venise.mp3</link>
+      <pubDate>23/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les ch??teaux forts</title>
+      <description>Les ch??teaux forts</description>
+      <link>http://blog-histoire.fr/2000ans/les-chateaux-forts1.mp3</link>
+      <pubDate>28/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;??le de P??ques</title>
+      <description>L&amp;rsquo;??le de P??ques</description>
+      <link>http://blog-histoire.fr/2000ans/Ile-de-paques.mp3</link>
+      <pubDate>29/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les cath??drales</title>
+      <description>Les cath??drales</description>
+      <link>http://blog-histoire.fr/2000ans/CathedraldeChartres.mp3</link>
+      <pubDate>30/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les ch??teaux de la Loire</title>
+      <description>Les ch??teaux de la Loire</description>
+      <link>http://blog-histoire.fr/2000ans/Les-chateaux-de-la-Loire.mp3</link>
+      <pubDate>31/08/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La Bastille</title>
+      <description>La Bastille</description>
+      <link>http://blog-histoire.fr/2000ans/Bastille.mp3</link>
+      <pubDate>01/09/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Louis Ferdinand C??line</title>
+      <description>Louis Ferdinand C??line</description>
+      <link>http://blog-histoire.fr/2000ans/Celine_pendant_Occupation.mp3</link>
+      <pubDate>05/09/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le pain</title>
+      <description>Le pain</description>
+      <link>http://blog-histoire.fr/2000ans/Pain.mp3</link>
+      <pubDate>06/09/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le vin</title>
+      <description>Le vin</description>
+      <link>http://blog-histoire.fr/2000ans/Le-vin.mp3</link>
+      <pubDate>18/09/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le 9 Thermidor</title>
+      <description>Le 9 Thermidor</description>
+      <link>http://blog-histoire.fr/2000ans/Robespierre1.mp3</link>
+      <pubDate>22/09/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le paradis</title>
+      <description>Le paradis</description>
+      <link>http://blog-histoire.fr/2000ans/16.12.2010-LE-PARADIS.mp3</link>
+      <pubDate>27/09/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les malades mentaux sous Vichy</title>
+      <description>Les malades mentaux sous Vichy</description>
+      <link>http://blog-histoire.fr/2000ans/Malades-mentaux-Vichy.mp3</link>
+      <pubDate>02/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le r??gne de Louis XV</title>
+      <description>Le r??gne de Louis XV</description>
+      <link>http://blog-histoire.fr/2000ans/louis-xv.mp3</link>
+      <pubDate>03/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Offenbach</title>
+      <description>Offenbach</description>
+      <link>http://blog-histoire.fr/2000ans/20.12.2010-JACQUES-OFFENBACH.mp3</link>
+      <pubDate>04/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le Tibet</title>
+      <description>Le Tibet</description>
+      <link>http://blog-histoire.fr/2000ans/Tibet2.mp3</link>
+      <pubDate>05/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les trois glorieuses</title>
+      <description>Les trois glorieuses</description>
+      <link>http://blog-histoire.fr/2000ans/Trois-Glorieuses.mp3</link>
+      <pubDate>10/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le chocolat</title>
+      <description>Le chocolat</description>
+      <link>http://blog-histoire.fr/2000ans/Le-chocolat.mp3</link>
+      <pubDate>11/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Freud. La naissance de la psychanalyse</title>
+      <description>Freud. La naissance de la psychanalyse</description>
+      <link>http://blog-histoire.fr/2000ans/24.03.2010-FREUD.mp3</link>
+      <pubDate>17/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le diable</title>
+      <description>Le diable</description>
+      <link>http://blog-histoire.fr/2000ans/27.01.2010-LE-DIABLE.mp3</link>
+      <pubDate>18/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;Espagne musulmane</title>
+      <description>L&amp;rsquo;Espagne musulmane</description>
+      <link>http://blog-histoire.fr/2000ans/l-Espagne-musulmane.mp3</link>
+      <pubDate>20/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La bataille d&amp;rsquo;Angleterre</title>
+      <description>La bataille d&amp;rsquo;Angleterre</description>
+      <link>http://blog-histoire.fr/2000ans/batailleangleterre.mp3</link>
+      <pubDate>23/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Louis XIV prend le pouvoir</title>
+      <description>Louis XIV prend le pouvoir</description>
+      <link>http://blog-histoire.fr/2000ans/Louis-XIV-pouvoir.mp3</link>
+      <pubDate>24/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;invention de la photographie</title>
+      <description>L&amp;rsquo;invention de la photographie</description>
+      <link>http://blog-histoire.fr/2000ans/La_photographie.mp3</link>
+      <pubDate>31/10/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les baleines</title>
+      <description>Les baleines</description>
+      <link>http://blog-histoire.fr/2000ans/2005-12-22-Les_baleines.mp3</link>
+      <pubDate>02/11/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Christophe Colomb</title>
+      <description>Christophe Colomb</description>
+      <link>http://blog-histoire.fr/2000ans/Christophe-Colomb.mp3</link>
+      <pubDate>03/11/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le sacre d&amp;rsquo;Henri IV</title>
+      <description>Le sacre d&amp;rsquo;Henri IV</description>
+      <link>http://blog-histoire.fr/2000ans/prisepouvoirHenriIV.mp3</link>
+      <pubDate>16/11/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La Com??die-Fran??aise</title>
+      <description>La Com??die-Fran??aise</description>
+      <link>http://blog-histoire.fr/2000ans/La-Comedie-Francaise.mp3</link>
+      <pubDate>22/11/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Fouch??</title>
+      <description>Fouch??</description>
+      <link>http://blog-histoire.fr/2000ans/Joseph-Fouche.mp3</link>
+      <pubDate>23/11/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Histoire de la langue fran??aise</title>
+      <description>Histoire de la langue fran??aise</description>
+      <link>http://blog-histoire.fr/2000ans/Histoire-langue-francais.mp3</link>
+      <pubDate>24/11/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Verdi</title>
+      <description>Verdi</description>
+      <link>http://blog-histoire.fr/2000ans/Verdi.mp3</link>
+      <pubDate>27/11/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Waterloo</title>
+      <description>Waterloo</description>
+      <link>http://blog-histoire.fr/2000ans/Waterloo.mp3</link>
+      <pubDate>01/12/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le sel</title>
+      <description>Le sel</description>
+      <link>http://blog-histoire.fr/2000ans/Le-Sel.mp3</link>
+      <pubDate>04/12/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>L&amp;rsquo;ETA</title>
+      <description>L&amp;rsquo;ETA</description>
+      <link>http://blog-histoire.fr/2000ans/LETA.mp3</link>
+      <pubDate>20/12/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le parfum</title>
+      <description>Le parfum</description>
+      <link>http://blog-histoire.fr/2000ans/Le-Parfum.mp3</link>
+      <pubDate>22/12/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le chocolat</title>
+      <description>Le chocolat</description>
+      <link>http://blog-histoire.fr/2000ans/Le-chocolat.mp3</link>
+      <pubDate>25/12/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le pain</title>
+      <description>Le pain</description>
+      <link>http://blog-histoire.fr/2000ans/Pain.mp3</link>
+      <pubDate>26/12/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le caf??</title>
+      <description>Le caf??</description>
+      <link>http://blog-histoire.fr/2000ans/01.04.2008-LE-CAFE.mp3</link>
+      <pubDate>27/12/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le vin</title>
+      <description>Le vin</description>
+      <link>http://blog-histoire.fr/2000ans/Le-vin.mp3</link>
+      <pubDate>29/12/2000 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Marco Polo</title>
+      <description>Marco Polo</description>
+      <link>http://blog-histoire.fr/2000ans/Marco-Polo.mp3</link>
+      <pubDate>02/01/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La l??gende du Roi Arthur</title>
+      <description>La l??gende du Roi Arthur</description>
+      <link>http://blog-histoire.fr/2000ans/Arthur.mp3</link>
+      <pubDate>03/01/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les bagnes</title>
+      <description>Les bagnes</description>
+      <link>http://blog-histoire.fr/2000ans/Les-bagnards.mp3</link>
+      <pubDate>04/01/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Marie-Antoinette</title>
+      <description>Marie-Antoinette</description>
+      <link>http://blog-histoire.fr/2000ans/Marie-Antoinette.mp3</link>
+      <pubDate>12/01/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le roman policier</title>
+      <description>Le roman policier</description>
+      <link>http://blog-histoire.fr/2000ans/Le-Roman-Policer.mp3</link>
+      <pubDate>15/01/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Robinson Cruso??</title>
+      <description>Robinson Cruso??</description>
+      <link>http://blog-histoire.fr/2000ans/Robinson-Crusoe.mp3</link>
+      <pubDate>16/01/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le Front populaire</title>
+      <description>Le Front populaire</description>
+      <link>http://blog-histoire.fr/2000ans/Le-Front-Populaire1.mp3</link>
+      <pubDate>18/01/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Victoria</title>
+      <description>Victoria</description>
+      <link>http://blog-histoire.fr/2000ans/La-reine-Victoria.mp3</link>
+      <pubDate>22/01/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le Masque de fer</title>
+      <description>Le Masque de fer</description>
+      <link>http://blog-histoire.fr/2000ans/Le-masque-fer.mp3</link>
+      <pubDate>23/01/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Vercing??torix</title>
+      <description>Vercing??torix</description>
+      <link>http://blog-histoire.fr/2000ans/2000_ans_d_histoire_-_24.01.2001-vercingetorix.mp3</link>
+      <pubDate>24/01/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Louis Pasteur</title>
+      <description>Louis Pasteur</description>
+      <link>http://blog-histoire.fr/2000ans/Pasteur.mp3</link>
+      <pubDate>01/02/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Les origines du football</title>
+      <description>Les origines du football</description>
+      <link>http://blog-histoire.fr/2000ans/football.mp3</link>
+      <pubDate>06/02/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La b??te du G??vaudan</title>
+      <description>La b??te du G??vaudan</description>
+      <link>http://blog-histoire.fr/2000ans/Gevaudan.mp3</link>
+      <pubDate>07/02/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title> Les situationnistes</title>
+      <description> Les situationnistes</description>
+      <link>http://blog-histoire.fr/2000ans/09.02.2001-GUY-DEBORD-ET-LES-SITUATIONNISTES.mp3</link>
+      <pubDate>09/02/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>La conqu??te de l&amp;rsquo;Himalaya</title>
+      <description>La conqu??te de l&amp;rsquo;Himalaya</description>
+      <link>http://blog-histoire.fr/2000ans/Himalaya.mp3</link>
+      <pubDate>12/02/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Corsaires et pirates</title>
+      <description>Corsaires et pirates</description>
+      <link>http://blog-histoire.fr/2000ans/08.09.2010-LES-CORSAIRES.mp3</link>
+      <pubDate>13/02/2001 00:00:00</pubDate>
+    </item>
+    <item>
+      <title>Le ski et les sports d&amp;rsquo;hiver</title>
+      <description>Le ski et les sports d&amp;rsquo;hiver</description>
+      <link>http://blog-histoire.fr/2000ans/Le-Ski.mp3</link>
+      <pubDate>15/02/2001 00:00:00</pubDate>
+    </item>
+  </channel>
+</rss>
